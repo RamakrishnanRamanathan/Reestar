@@ -1,0 +1,74 @@
+*{
+    padding:0;
+    margin:0;
+   
+}
+.section-one{
+    background-color:lavenderblush;
+    text-align: center;
+    margin:20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.section-two__img1{
+    height:200px;
+    width:200px;
+    border-radius: 5px;
+}
+.container{
+    background-color: cadetblue;
+    padding:20px;
+    margin: 20px;
+}
+.container-two{
+    margin:20px;
+    text-align: center;
+    background-color: coral;
+    padding: 20px;
+    border-radius: 5px;
+    
+}
+.section-two__1,.section-two__2,.section-two__3{
+    display: inline-block;
+    height: 200px;
+    width:200px;
+    padding:3px;
+   
+    
+}
+.section-two__button{
+    background-color: cornflowerblue;
+    color:white;
+    padding:6px;
+    border-radius: 5px;
+    margin-top:10px
+}
+.section-two__button:hover{
+    background-color:cyan;
+    color:black;
+    cursor:pointer;
+}
+.section-three{
+    background-color:lavenderblush;
+    
+    text-align: center;
+    margin:20px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+.contact-form{
+margin-top: 10px;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+.contact-form button{
+    background-color: darkkhaki;
+    padding:5px;
+    border-radius: 5px;
+    color:black;
+}
+.contact-form__input{
+    
